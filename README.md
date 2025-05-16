@@ -18,4 +18,6 @@ Made it out of curiosirty just to try those effects and other animations,
 all the images and scenaries and other images that you see in the background are AI geenrated using ChatGPT promt and SORA AI.
 ## Not a clone
 Just for fun hope you'll like it
-![Uploading Screenshot 2025-05-16 165555.png…]()
+
+
+![Screenshot 2025-05-16 165555](https://github.com/user-attachments/assets/34f54334-c2b2-4705-86ca-bc3a7b96ddc6)
